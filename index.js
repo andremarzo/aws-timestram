@@ -4,7 +4,6 @@ const ACCESSKEY = process.env.AWS_ACCESSKEY;
 const SECRETKEY = process.env.AWS_SECRETKEY;
 const REGION = "us-east-2";
 const DATABASE = "POCSampleDatabase";
-const UPDATEDKMSKEYID = "d9cdb873-699f-4375-9e82-4d9393877d4a";
 
 //Tipos de dado para medidadas
 const types = {
